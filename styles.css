@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  justify-content: center;
+  font-family: Calibri, sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+.container {
+  width: 800px;
+}
+
+.container-bottom {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  width: available;
+}
+
+ul li {
+  list-style-type: none;
+  padding: 10px 6px 10px 32px;
+  font-size: 20px;
+}
+
+ul {
+  width: 800px;
+}
+
+.close {
+  float: right;
+}
+
+/*# sourceMappingURL=styles.css.map */
